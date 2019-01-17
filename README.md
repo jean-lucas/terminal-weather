@@ -13,3 +13,7 @@ Icons used in this tool are from Open Weather Map.
 * `go build`
 * `./terminal-weather`
 
+<hr>
+
+![demo image](https://github.com/jean-lucas/terminal-weather/blob/master/demo.png)
+
