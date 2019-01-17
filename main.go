@@ -16,7 +16,7 @@ import (
     "encoding/json"
 )
 
-const API_KEY = "<key>";
+const API_KEY = OWM_API_KEY;
 const CITY_ID = "5969782" // https://openweathermap.org/find
 const URL = "http://api.openweathermap.org/data/2.5/weather?"
 
